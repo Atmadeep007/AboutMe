@@ -18,10 +18,6 @@ Here’s a list of topics I’m actively learning or have already covered:
 - Data Structures (Lists, Tuples, Dictionaries)
 - File I/O (Reading and Writing Files)
 - Object-Oriented Programming (OOP)
-- Decorators
-- Generators
-- Concurrency and Parallelism
-- Working with APIs
 
 **Other Languages & Tools**
 - **C and C++(Basics):**
