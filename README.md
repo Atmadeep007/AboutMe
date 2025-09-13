@@ -36,9 +36,9 @@ Here’s a list of topics I’m actively learning or have already covered:
 
 ***
 
-## 🚀 Current Projects
+## 🚀 Current Activity
 
-I am currently transferring my knowledge from python to C++. I have done the same in C few weeks ago. 
+I am currently learning topics in C++ which I have already been familiar with in python. I have done the same in C during the month of August. 
 
 ***
 
